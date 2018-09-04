@@ -1,4 +1,4 @@
-package com.example.niloofar.countrylist;
+package com.example.niloofar.customlistview;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.niloofar.countrylist", appContext.getPackageName());
+        assertEquals("com.example.niloofar.customlistview", appContext.getPackageName());
     }
 }
